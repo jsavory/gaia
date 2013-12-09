@@ -1,0 +1,3 @@
+#! /bin/bash -ve
+
+travis-artifacts upload --path artifacts/
